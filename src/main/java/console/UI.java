@@ -1,6 +1,9 @@
 package console;
 
-import domain.*;
+
+import domain.Nota;
+import domain.Student;
+import domain.Tema;
 import service.Service;
 
 import java.util.Scanner;

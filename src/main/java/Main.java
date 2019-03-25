@@ -1,5 +1,3 @@
-
-
 import console.*;
 import domain.*;
 import repository.*;
